@@ -1,0 +1,336 @@
+
+*********************************************
+Report generated on 2024-01-13 01:46:19
+*********************************************
+Low Temperature Anomaly Detected: 12.90 > 20.00
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 01:47:46
+*********************************************
+Low Temperature Anomaly Detected: 12.90 > 20.00
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 01:49:17
+*********************************************
+Low Temperature Anomaly Detected: 12.90 > 20.00
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 01:50:20
+*********************************************
+Low Temperature Anomaly Detected: 12.90 > 20.00
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 01:50:57
+*********************************************
+Low Temperature Anomaly Detected: 12.90 > 20.00
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 16:33:57
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 16:38:13
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 16:40:29
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 16:44:35
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 16:56:45
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 17:04:09
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 17:05:10
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 17:07:14
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 17:08:53
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 17:53:54
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 18:13:31
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 18:14:41
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 18:21:11
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 18:26:17
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 18:35:46
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 18:56:23
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 19:01:53
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 19:05:04
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 19:13:00
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 19:14:01
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 19:15:45
+*********************************************
+Low Temperature Anomaly Detected: 22.90 > 25.00
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 19:19:55
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 19:26:09
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 19:34:24
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 19:35:29
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 19:37:55
+*********************************************
+Low Temperature Anomaly Detected: -273.15 > 20.00
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-01-13 19:42:32
+*********************************************
+Low Temperature Anomaly Detected: 22.90 > 25.00
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-11-21 18:41:00
+*********************************************
+Low Temperature Anomaly Detected: 23.90 > 25.00
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-11-21 18:41:46
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-11-21 18:51:03
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-11-21 18:51:27
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-11-21 19:56:03
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-11-21 19:56:19
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-11-21 20:03:54
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-11-21 20:04:29
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-11-21 20:06:08
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected
+
+*********************************************
+Report generated on 2024-11-21 20:06:32
+*********************************************
+Temperature within normal range.
+Humidity within normal range.
+
+Analysis Result: Anomalies or Trends Detected

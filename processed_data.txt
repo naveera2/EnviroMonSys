@@ -1,0 +1,868 @@
+
+*********************************************
+Data generated on 2024-01-13 01:46:19
+*********************************************
+Weather Information:
+Temperature: 12.90°C
+Humidity: 58.00%
+Min Temperature: 12.90°C
+Max Temperature: 12.90°C
+Pressure: 1016.00 hPa
+Wind Speed: 2.06 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 01:47:46
+*********************************************
+Weather Information:
+Temperature: 12.90°C
+Humidity: 58.00%
+Min Temperature: 12.90°C
+Max Temperature: 12.90°C
+Pressure: 1016.00 hPa
+Wind Speed: 2.06 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 01:49:17
+*********************************************
+Weather Information:
+Temperature: 12.90°C
+Humidity: 58.00%
+Min Temperature: 12.90°C
+Max Temperature: 12.90°C
+Pressure: 1016.00 hPa
+Wind Speed: 2.06 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 01:50:20
+*********************************************
+Weather Information:
+Temperature: 12.90°C
+Humidity: 58.00%
+Min Temperature: 12.90°C
+Max Temperature: 12.90°C
+Pressure: 1016.00 hPa
+Wind Speed: 2.06 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 01:50:57
+*********************************************
+Weather Information:
+Temperature: 12.90°C
+Humidity: 58.00%
+Min Temperature: 12.90°C
+Max Temperature: 12.90°C
+Pressure: 1016.00 hPa
+Wind Speed: 2.06 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 01:51:58
+*********************************************
+Weather Information:
+Temperature: 12.90°C
+Humidity: 58.00%
+Min Temperature: 12.90°C
+Max Temperature: 12.90°C
+Pressure: 1016.00 hPa
+Wind Speed: 2.06 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 01:53:04
+*********************************************
+Weather Information:
+Temperature: 12.90°C
+Humidity: 58.00%
+Min Temperature: 12.90°C
+Max Temperature: 12.90°C
+Pressure: 1016.00 hPa
+Wind Speed: 2.06 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 02:04:59
+*********************************************
+Weather Information:
+Temperature: 11.90°C
+Humidity: 58.00%
+Min Temperature: 11.90°C
+Max Temperature: 11.90°C
+Pressure: 1016.00 hPa
+Wind Speed: 1.54 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 02:06:31
+*********************************************
+Weather Information:
+Temperature: 11.90°C
+Humidity: 58.00%
+Min Temperature: 11.90°C
+Max Temperature: 11.90°C
+Pressure: 1016.00 hPa
+Wind Speed: 1.54 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 02:07:26
+*********************************************
+Weather Information:
+Temperature: 11.90°C
+Humidity: 58.00%
+Min Temperature: 11.90°C
+Max Temperature: 11.90°C
+Pressure: 1016.00 hPa
+Wind Speed: 1.54 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 02:08:56
+*********************************************
+Weather Information:
+Temperature: 11.90°C
+Humidity: 58.00%
+Min Temperature: 11.90°C
+Max Temperature: 11.90°C
+Pressure: 1016.00 hPa
+Wind Speed: 1.54 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 02:13:01
+*********************************************
+Weather Information:
+Temperature: 11.90°C
+Humidity: 58.00%
+Min Temperature: 11.90°C
+Max Temperature: 11.90°C
+Pressure: 1016.00 hPa
+Wind Speed: 1.54 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 02:13:25
+*********************************************
+Weather Information:
+Temperature: 11.90°C
+Humidity: 58.00%
+Min Temperature: 11.90°C
+Max Temperature: 11.90°C
+Pressure: 1016.00 hPa
+Wind Speed: 1.54 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 02:16:50
+*********************************************
+Weather Information:
+Temperature: 11.90°C
+Humidity: 58.00%
+Min Temperature: 11.90°C
+Max Temperature: 11.90°C
+Pressure: 1016.00 hPa
+Wind Speed: 1.54 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 02:21:03
+*********************************************
+Weather Information:
+Temperature: 11.90°C
+Humidity: 58.00%
+Min Temperature: 11.90°C
+Max Temperature: 11.90°C
+Pressure: 1016.00 hPa
+Wind Speed: 1.54 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 02:23:06
+*********************************************
+Weather Information:
+Temperature: 11.90°C
+Humidity: 58.00%
+Min Temperature: 11.90°C
+Max Temperature: 11.90°C
+Pressure: 1016.00 hPa
+Wind Speed: 1.54 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 02:27:30
+*********************************************
+Weather Information:
+Temperature: 11.90°C
+Humidity: 62.00%
+Min Temperature: 11.90°C
+Max Temperature: 11.90°C
+Pressure: 1016.00 hPa
+Wind Speed: 0.00 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 02:29:40
+*********************************************
+Weather Information:
+Temperature: 11.90°C
+Humidity: 62.00%
+Min Temperature: 11.90°C
+Max Temperature: 11.90°C
+Pressure: 1016.00 hPa
+Wind Speed: 0.00 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 16:19:51
+*********************************************
+Weather Information:
+Temperature: 25.90°C
+Humidity: 27.00%
+Min Temperature: 25.90°C
+Max Temperature: 25.90°C
+Pressure: 1014.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 16:21:44
+*********************************************
+Weather Information:
+Temperature: 25.90°C
+Humidity: 27.00%
+Min Temperature: 25.90°C
+Max Temperature: 25.90°C
+Pressure: 1014.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 16:22:42
+*********************************************
+Weather Information:
+Temperature: 25.90°C
+Humidity: 27.00%
+Min Temperature: 25.90°C
+Max Temperature: 25.90°C
+Pressure: 1014.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 16:23:27
+*********************************************
+Weather Information:
+Temperature: 25.90°C
+Humidity: 27.00%
+Min Temperature: 25.90°C
+Max Temperature: 25.90°C
+Pressure: 1014.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 16:24:41
+*********************************************
+Weather Information:
+Temperature: 25.90°C
+Humidity: 27.00%
+Min Temperature: 25.90°C
+Max Temperature: 25.90°C
+Pressure: 1014.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 16:26:39
+*********************************************
+Weather Information:
+Temperature: 25.90°C
+Humidity: 27.00%
+Min Temperature: 25.90°C
+Max Temperature: 25.90°C
+Pressure: 1014.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 16:29:40
+*********************************************
+Weather Information:
+Temperature: 25.90°C
+Humidity: 27.00%
+Min Temperature: 25.90°C
+Max Temperature: 25.90°C
+Pressure: 1014.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 16:31:50
+*********************************************
+Weather Information:
+Temperature: 25.90°C
+Humidity: 27.00%
+Min Temperature: 25.90°C
+Max Temperature: 25.90°C
+Pressure: 1014.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 16:33:53
+*********************************************
+Weather Information:
+Temperature: 25.90°C
+Humidity: 27.00%
+Min Temperature: 25.90°C
+Max Temperature: 25.90°C
+Pressure: 1014.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 16:38:09
+*********************************************
+Weather Information:
+Temperature: 25.90°C
+Humidity: 27.00%
+Min Temperature: 25.90°C
+Max Temperature: 25.90°C
+Pressure: 1014.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 16:40:26
+*********************************************
+Weather Information:
+Temperature: 25.90°C
+Humidity: 27.00%
+Min Temperature: 25.90°C
+Max Temperature: 25.90°C
+Pressure: 1014.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 16:44:31
+*********************************************
+Weather Information:
+Temperature: 25.90°C
+Humidity: 27.00%
+Min Temperature: 25.90°C
+Max Temperature: 25.90°C
+Pressure: 1014.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 16:56:42
+*********************************************
+Weather Information:
+Temperature: 25.90°C
+Humidity: 27.00%
+Min Temperature: 25.90°C
+Max Temperature: 25.90°C
+Pressure: 1014.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 17:04:06
+*********************************************
+Weather Information:
+Temperature: 25.90°C
+Humidity: 27.00%
+Min Temperature: 25.90°C
+Max Temperature: 25.90°C
+Pressure: 1014.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 17:05:07
+*********************************************
+Weather Information:
+Temperature: 25.90°C
+Humidity: 27.00%
+Min Temperature: 25.90°C
+Max Temperature: 25.90°C
+Pressure: 1014.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 17:07:11
+*********************************************
+Weather Information:
+Temperature: 25.90°C
+Humidity: 27.00%
+Min Temperature: 25.90°C
+Max Temperature: 25.90°C
+Pressure: 1014.00 hPa
+Wind Speed: 5.14 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 17:08:50
+*********************************************
+Weather Information:
+Temperature: 25.90°C
+Humidity: 27.00%
+Min Temperature: 25.90°C
+Max Temperature: 25.90°C
+Pressure: 1014.00 hPa
+Wind Speed: 5.14 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 17:53:51
+*********************************************
+Weather Information:
+Temperature: 24.90°C
+Humidity: 33.00%
+Min Temperature: 24.90°C
+Max Temperature: 24.90°C
+Pressure: 1014.00 hPa
+Wind Speed: 3.09 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 18:13:26
+*********************************************
+Weather Information:
+Temperature: 23.90°C
+Humidity: 46.00%
+Min Temperature: 23.90°C
+Max Temperature: 23.90°C
+Pressure: 1015.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 18:14:38
+*********************************************
+Weather Information:
+Temperature: 23.90°C
+Humidity: 46.00%
+Min Temperature: 23.90°C
+Max Temperature: 23.90°C
+Pressure: 1015.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 18:21:08
+*********************************************
+Weather Information:
+Temperature: 23.90°C
+Humidity: 46.00%
+Min Temperature: 23.90°C
+Max Temperature: 23.90°C
+Pressure: 1015.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 18:26:14
+*********************************************
+Weather Information:
+Temperature: 23.90°C
+Humidity: 46.00%
+Min Temperature: 23.90°C
+Max Temperature: 23.90°C
+Pressure: 1015.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 18:35:43
+*********************************************
+Weather Information:
+Temperature: 23.90°C
+Humidity: 46.00%
+Min Temperature: 23.90°C
+Max Temperature: 23.90°C
+Pressure: 1015.00 hPa
+Wind Speed: 4.63 m/s
+Weather Description: broken clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 18:56:20
+*********************************************
+Weather Information:
+Temperature: 22.90°C
+Humidity: 53.00%
+Min Temperature: 22.90°C
+Max Temperature: 22.90°C
+Pressure: 1015.00 hPa
+Wind Speed: 3.60 m/s
+Weather Description: haze
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 19:01:50
+*********************************************
+Weather Information:
+Temperature: 22.90°C
+Humidity: 53.00%
+Min Temperature: 22.90°C
+Max Temperature: 22.90°C
+Pressure: 1015.00 hPa
+Wind Speed: 3.60 m/s
+Weather Description: haze
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 19:05:01
+*********************************************
+Weather Information:
+Temperature: 22.90°C
+Humidity: 53.00%
+Min Temperature: 22.90°C
+Max Temperature: 22.90°C
+Pressure: 1015.00 hPa
+Wind Speed: 3.60 m/s
+Weather Description: haze
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 19:12:57
+*********************************************
+Weather Information:
+Temperature: 22.90°C
+Humidity: 53.00%
+Min Temperature: 22.90°C
+Max Temperature: 22.90°C
+Pressure: 1015.00 hPa
+Wind Speed: 3.60 m/s
+Weather Description: haze
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 19:13:57
+*********************************************
+Weather Information:
+Temperature: 22.90°C
+Humidity: 53.00%
+Min Temperature: 22.90°C
+Max Temperature: 22.90°C
+Pressure: 1015.00 hPa
+Wind Speed: 3.60 m/s
+Weather Description: haze
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 19:15:42
+*********************************************
+Weather Information:
+Temperature: 22.90°C
+Humidity: 53.00%
+Min Temperature: 22.90°C
+Max Temperature: 22.90°C
+Pressure: 1015.00 hPa
+Wind Speed: 3.60 m/s
+Weather Description: haze
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 19:19:52
+*********************************************
+Weather Information:
+Temperature: 22.90°C
+Humidity: 53.00%
+Min Temperature: 22.90°C
+Max Temperature: 22.90°C
+Pressure: 1015.00 hPa
+Wind Speed: 3.60 m/s
+Weather Description: haze
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 19:26:05
+*********************************************
+Weather Information:
+Temperature: 22.90°C
+Humidity: 53.00%
+Min Temperature: 22.90°C
+Max Temperature: 22.90°C
+Pressure: 1015.00 hPa
+Wind Speed: 3.60 m/s
+Weather Description: haze
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 19:34:22
+*********************************************
+Weather Information:
+Temperature: 22.90°C
+Humidity: 53.00%
+Min Temperature: 22.90°C
+Max Temperature: 22.90°C
+Pressure: 1015.00 hPa
+Wind Speed: 3.60 m/s
+Weather Description: haze
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 19:35:26
+*********************************************
+Weather Information:
+Temperature: 22.90°C
+Humidity: 56.00%
+Min Temperature: 22.90°C
+Max Temperature: 22.90°C
+Pressure: 1015.00 hPa
+Wind Speed: 3.60 m/s
+Weather Description: haze
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-01-13 19:42:29
+*********************************************
+Weather Information:
+Temperature: 22.90°C
+Humidity: 56.00%
+Min Temperature: 22.90°C
+Max Temperature: 22.90°C
+Pressure: 1015.00 hPa
+Wind Speed: 3.60 m/s
+Weather Description: haze
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-11-21 18:40:55
+*********************************************
+Weather Information:
+Temperature: 23.90°C
+Humidity: 69.00%
+Min Temperature: 23.90°C
+Max Temperature: 23.90°C
+Pressure: 1013.00 hPa
+Wind Speed: 1.54 m/s
+Weather Description: clear sky
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-11-21 18:41:43
+*********************************************
+Weather Information:
+Temperature: 23.90°C
+Humidity: 69.00%
+Min Temperature: 23.90°C
+Max Temperature: 23.90°C
+Pressure: 1013.00 hPa
+Wind Speed: 1.54 m/s
+Weather Description: clear sky
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-11-21 18:50:59
+*********************************************
+Weather Information:
+Temperature: 21.90°C
+Humidity: 73.00%
+Min Temperature: 21.90°C
+Max Temperature: 21.90°C
+Pressure: 1013.00 hPa
+Wind Speed: 0.00 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-11-21 18:51:23
+*********************************************
+Weather Information:
+Temperature: 21.90°C
+Humidity: 73.00%
+Min Temperature: 21.90°C
+Max Temperature: 21.90°C
+Pressure: 1013.00 hPa
+Wind Speed: 0.00 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-11-21 19:55:56
+*********************************************
+Weather Information:
+Temperature: 21.90°C
+Humidity: 78.00%
+Min Temperature: 21.90°C
+Max Temperature: 21.90°C
+Pressure: 1013.00 hPa
+Wind Speed: 3.09 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-11-21 19:56:17
+*********************************************
+Weather Information:
+Temperature: 21.90°C
+Humidity: 78.00%
+Min Temperature: 21.90°C
+Max Temperature: 21.90°C
+Pressure: 1013.00 hPa
+Wind Speed: 3.09 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-11-21 20:03:51
+*********************************************
+Weather Information:
+Temperature: 21.90°C
+Humidity: 78.00%
+Min Temperature: 21.90°C
+Max Temperature: 21.90°C
+Pressure: 1013.00 hPa
+Wind Speed: 3.09 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-11-21 20:04:25
+*********************************************
+Weather Information:
+Temperature: 21.90°C
+Humidity: 78.00%
+Min Temperature: 21.90°C
+Max Temperature: 21.90°C
+Pressure: 1013.00 hPa
+Wind Speed: 3.09 m/s
+Weather Description: smoke
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-11-21 20:05:57
+*********************************************
+Weather Information:
+Temperature: 27.90°C
+Humidity: 54.00%
+Min Temperature: 27.90°C
+Max Temperature: 27.90°C
+Pressure: 1012.00 hPa
+Wind Speed: 5.14 m/s
+Weather Description: few clouds
+City: Karachi
+
+
+*********************************************
+Data generated on 2024-11-21 20:06:28
+*********************************************
+Weather Information:
+Temperature: 27.90°C
+Humidity: 54.00%
+Min Temperature: 27.90°C
+Max Temperature: 27.90°C
+Pressure: 1012.00 hPa
+Wind Speed: 5.14 m/s
+Weather Description: few clouds
+City: Karachi
+

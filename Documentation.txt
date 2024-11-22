@@ -1,0 +1,91 @@
+# Weather Monitoring System Documentation
+
+## Overview
+
+The Weather Monitoring System is a C program that fetches real-time weather data from the OpenWeatherMap API, processes the data, performs analysis, generates reports, and sends email notifications based on predefined thresholds.
+
+## Table of Contents
+
+1. [Requirements]
+2. [Installation]
+3. [Code Structure]
+    - [Header Files]
+    - [Source Files]
+4. [Functions]
+5. [Configuration]
+6. [Anomaly Detection]
+7. [Email Notifications]
+8. [File Handling]
+9. [Error Handling]
+10. [Cleanup]
+11. [Conclusion]
+
+## Requirements
+
+- CURL library
+- JSON-C library
+- OpenWeatherMap API key
+
+## Installation
+
+1. Install the required libraries:
+   sudo apt-get install libcurl4-openssl-dev
+   sudo apt-get install libjson-c-dev
+   sudo apt-get install mailutils
+   
+## Code Structure
+
+   1. [Header Files]
+      - email.h
+      - weather.h
+       
+   2. [Source Files] 
+      - email.c
+      - weather.c
+      - main.c
+        
+## Functions
+
+   1. getCurrentTime
+   2. WriteCallback
+   3. processData
+   4. generateReport
+   5. send_email
+   6. getProcessedData
+   7. printReport
+   
+## Configuration
+
+   1. Set the OpenWeatherMap API key in the apiUrl variable.
+   2. Configure email settings in "email.c".
+   
+## Anomaly Detection
+
+   - The program detects anomalies in temperature and humidity based on predefined thresholds.
+   
+## Email Notifications
+
+   - Email notifications are sent in case of anomalies. Email configuration is in "email.c".
+   
+## File Handling
+   
+   - Raw API data is stored in "raw_data.txt".
+   - Processed weather information is stored in "processed_data.txt".
+   - Reports are generated in "report.txt".
+   
+## Error Handling
+   
+   - Error messages are printed to stderr for failed operations.
+   
+## Cleanup
+
+   - The program releases allocated memory and closes CURL connections.
+
+## Conclusion
+
+   - The Weather Monitoring System provides real-time weather analysis, anomaly detection, and reporting capabilities
+   
+==> This documentation provides a comprehensive guide to understanding, installing, and using the Weather Monitoring System. It also explains the code structure, functions, configuration, anomaly detection, email notifications, file handling, error handling, and cleanup procedures.
+
+
+
