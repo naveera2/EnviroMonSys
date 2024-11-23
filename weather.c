@@ -163,7 +163,7 @@ void processData(const char *jsonResponse) {
        	    snprintf(email_body, sizeof(email_body),"Temperature detected. Current temperature (%.2f)°C is within normal range.\n", temperature-273.15);
         }
 
-	send_email("zainabnoor021@gmail.com", email_body);
+	send_email("sharifnaveera8@gmail.com", email_body);
 }
 
 // Function to generate a report based on the analyzed data
